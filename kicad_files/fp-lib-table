@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "f169_plates_graphics")(type "KiCad")(uri "${KIPRJMOD}/f169_plates_graphics.pretty")(options "")(descr ""))
+)

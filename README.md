@@ -12,6 +12,5 @@ It is important to note that everything in this repository is licensed under the
 
 ## Renders
 
-![fullplate](https://github.com/AcheronProject/F1-69_plates/releases/download/untagged-6d70d54ce5c7156fdfce/fullplate_render.png?raw=true)
-
-![halfplate](https://github.com/AcheronProject/F1-69_plates/releases/download/untagged-6d70d54ce5c7156fdfce/halfplate_render.png?raw=true)
+![halfplate](https://user-images.githubusercontent.com/39470766/105536264-d1ee3600-5cce-11eb-8db1-c144e38414b6.png)
+![fullplate](https://user-images.githubusercontent.com/39470766/105536267-d31f6300-5cce-11eb-966c-7937fd3ba5fe.png)
